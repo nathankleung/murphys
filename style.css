@@ -1,3 +1,6 @@
+body {
+    background-color:#004030
+}
 .topmenu {
     background-color: #004030;
     color: white;
@@ -19,4 +22,19 @@
     color: white;
     text-align: center;
     font-size: 2em;
+}
+
+.green-background {
+  background-color: #004030;
+  height: 200px;
+}
+
+
+.colorblocktop {
+  padding-top: 20px;
+}
+.grad-background {
+  background: url('murphy-new-background.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  height: 200px;
 }
